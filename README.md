@@ -1,4 +1,4 @@
-# T20-men-s-World-Cup-match-analysis-report-Power bi
+# T20-mens-World-Cup-match-analysis-report-Power bi
 
 
  Project Overview:
